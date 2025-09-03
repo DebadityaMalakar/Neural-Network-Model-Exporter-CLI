@@ -1,5 +1,3 @@
-# Neural-Network-Model-Exporter-CLI
-
 # Neural Network Model Exporter CLI 💀📊
 
 > **The Ultimate Tool for Creating Gloriously Inefficient AI Model Formats**
